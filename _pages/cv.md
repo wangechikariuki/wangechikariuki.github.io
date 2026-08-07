@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CVvvvv"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.DDD in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.DDD in Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
