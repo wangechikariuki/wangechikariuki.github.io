@@ -11,9 +11,6 @@ Wangechi Kariuki is a PhD student in Law at the University of Washington School 
 
 Through her research, Wangechi aims to raise awareness and amplify the voices of communities, particularly those who speak languages considered underrepresented within the context of the United States and more broadly, and to advance meaningful access to justice for all.
 
-* **ORCID:** [0009-0003-2216-6132](https://orcid.org/0009-0003-2216-6132)
-* **LinkedIn:** [linkedin.com/in/wangechi-kariuki](https://www.linkedin.com/in/wangechi-kariuki)
-
 Research Interests
 ======
 

@@ -10,10 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-**Language Access Scholar** | Law · Technology · Public Policy · Linguistics | Court-Credentialed Swahili Interpreter · Medical and Social Services Credentialed Interpreter | WA Supreme Court ILAC Commissioner
-
-Seattle, Washington
-
 About
 ======
 

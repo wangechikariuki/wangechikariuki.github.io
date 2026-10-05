@@ -7,12 +7,14 @@ excerpt: 'Practical recommendations for health care providers working with inter
 date: 2026-10-01
 venue: 'The Journal for Nurse Practitioners'
 link: 'https://www.npjournal.org/article/S1555-4155(26)00301-6/abstract'
-citation: 'Kariuki, I. W., &amp; Squires, A. (2026). &quot;Recommendations for Working With Interpreters of Languages of Limited Diffusion.&quot; <i>The Journal for Nurse Practitioners</i>, 22(9), 105988.'
+citation: 'Kariuki, I. W., &amp; Squires, A. (2026). &quot;Recommendations for Working With Interpreters of Languages of Limited Diffusion.&quot; <i>The Journal for Nurse Practitioners</i>, 22(9), 105988. https://doi.org/10.1016/j.nurpra.2026.105988'
 ---
 
 **Authors:** I. Wangechi Kariuki, Allison Squires
 
 **Published in:** *The Journal for Nurse Practitioners*, Volume 22, Issue 9, 105988, October 2026 (Clinical Practice)
+
+**DOI:** [10.1016/j.nurpra.2026.105988](https://doi.org/10.1016/j.nurpra.2026.105988)
 
 [Read the article](https://www.npjournal.org/article/S1555-4155(26)00301-6/abstract)
 
