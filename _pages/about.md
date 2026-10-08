@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Wangechi Kariuki is a PhD student in Law at the University of Washington School of Law, pursuing interdisciplinary scholarship at the intersection of law, technology, and public policy. Before her doctoral studies, Wangechi earned a Master of Jurisprudence from the University of Washington School of Law, with a specialization in Technology Law and Health Law. Wangechi brings more than a decade of professional experience serving state courts, government agencies, hospitals, and private entities nationwide.
+I am a PhD student in Law at the University of Washington School of Law, pursuing interdisciplinary scholarship at the intersection of law, technology, and public policy. Before my doctoral studies, I earned a Master of Jurisprudence from the University of Washington School of Law, with a specialization in Technology Law and Health Law. I bring more than a decade of professional experience serving state courts, government agencies, hospitals, and private entities nationwide.
 
-Through her research, Wangechi aims to raise awareness and amplify the voices of communities, particularly those who speak languages considered underrepresented within the context of the United States and more broadly, and to advance meaningful access to justice for all.
+Through my research, I aim to raise awareness and amplify the voices of communities, particularly those who speak languages considered underrepresented within the context of the United States and more broadly, and to advance meaningful access to justice for all.
 
 Research Interests
 ======

@@ -6,17 +6,21 @@ permalink: /publication/2026-10-01-working-with-interpreters-languages-limited-d
 excerpt: 'Practical recommendations for health care providers working with interpreters of languages of limited diffusion.'
 date: 2026-10-01
 venue: 'The Journal for Nurse Practitioners'
-link: 'https://www.npjournal.org/article/S1555-4155(26)00301-6/abstract'
-citation: 'Kariuki, I. W., &amp; Squires, A. (2026). &quot;Recommendations for Working With Interpreters of Languages of Limited Diffusion.&quot; <i>The Journal for Nurse Practitioners</i>, 22(9), 105988. https://doi.org/10.1016/j.nurpra.2026.105988'
+link: 'https://www.sciencedirect.com/science/article/pii/S1555415526003016'
+citation: 'Kariuki I, Squires A. Recommendations for working with interpreters of languages of limited diffusion. <i>J Nurse Pract</i>. 2026;22(9):105988. doi:10.1016/j.nurpra.2026.105988'
 ---
 
 **Authors:** I. Wangechi Kariuki, Allison Squires
 
 **Published in:** *The Journal for Nurse Practitioners*, Volume 22, Issue 9, 105988, October 2026 (Clinical Practice)
 
+**Cite (AMA):** Kariuki I, Squires A. Recommendations for working with interpreters of languages of limited diffusion. *J Nurse Pract*. 2026;22(9):105988. doi:10.1016/j.nurpra.2026.105988
+
 **DOI:** [10.1016/j.nurpra.2026.105988](https://doi.org/10.1016/j.nurpra.2026.105988)
 
-[Read the article](https://www.npjournal.org/article/S1555-4155(26)00301-6/abstract)
+[Read the article on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1555415526003016)
+
+[Free full-text access through October 28, 2026](https://authors.elsevier.com/a/1nkun5XgHbvz58)
 
 Abstract
 ======
