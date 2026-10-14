@@ -26,17 +26,11 @@ I hold a Master of Jurisprudence from the University of Washington School of Law
 Presentations & Speaking Engagements
 ======
 
-{% comment %}
-  67th Annual Washington Judges' Conference: ILAC session on October 13, 2026.
-  Delete the opening and closing "comment" tags around this entry after the event to publish it.
-
 **ILAC: Due Process and Best Practices for Language Access**  
 67th Annual Washington Judges' Conference · Interpreter and Language Access Commission (ILAC) · In person and virtual  
 October 13, 2026 · Tukwila, Washington
 
 I served as a panelist, alongside members of the ILAC education committee including a Snohomish County judge, at the conference's ILAC session on due process and best practices for language access. We discussed real-world scenarios to guide judicial officers in working with interpreters. The session addressed current challenges in Washington State courts, presenting data to create a shared understanding of language access issues. We explored situations involving individuals with Limited English Proficiency (LEP) and discussed strategies to navigate potential due process risks. Through case studies, the session provided judicial officers with the tools needed to improve language access in the courts and promote equitable access to justice for everyone.
-
-{% endcomment %}
 
 **Ensuring Language Access in Civil Protection Order Hearings**  
 Washington State Administrative Office of the Courts · PORT Project · Statewide Webinar  
