@@ -13,7 +13,7 @@ redirect_from:
 About
 ======
 
-I am an access to justice advocate, a multilingual professional, and a PhD in Law student at the University of Washington School of Law. My research takes an interdisciplinary approach, exploring the intersection of law, technology, linguistics, and public policy. I examine the opportunities and challenges presented by emerging AI-powered interpretation and translation technologies, particularly their impact on meaningful access to justice in judicial and administrative proceedings for speakers of non-dominant languages.
+I am an access to justice advocate, a multilingual professional, and a PhD in Law student at the University of Washington School of Law. My research takes an interdisciplinary approach, exploring the intersection of law, technology, linguistics, and public policy. I examine the opportunities and challenges presented by emerging AI-powered interpretation and translation technologies in high-stakes settings.
 
 With over 10 years of dedicated service as a court-credentialed Swahili language interpreter both in Washington state and beyond, my multi-jurisdictional experience has given me unique insight into the nuances of how justice is administered throughout the United States, highlighting both its complexities and challenges.
 
@@ -26,11 +26,13 @@ I hold a Master of Jurisprudence from the University of Washington School of Law
 Presentations & Speaking Engagements
 ======
 
-**ILAC: Due Process and Best Practices for Language Access**  
-67th Annual Washington Judges' Conference · Interpreter and Language Access Commission (ILAC) · In person and virtual  
+**67th Annual Washington Judges' Conference**  
+Interpreter and Language Access Commission (ILAC) · In person and virtual  
 October 13, 2026 · Tukwila, Washington
 
-I served as a panelist, alongside members of the ILAC education committee including a Snohomish County judge, at the conference's ILAC session on due process and best practices for language access. We discussed real-world scenarios to guide judicial officers in working with interpreters. The session addressed current challenges in Washington State courts, presenting data to create a shared understanding of language access issues. We explored situations involving individuals with Limited English Proficiency (LEP) and discussed strategies to navigate potential due process risks. Through case studies, the session provided judicial officers with the tools needed to improve language access in the courts and promote equitable access to justice for everyone.
+I served as a panelist at the Annual Judiciary Conference during the ILAC session "Due Process and Best Practices for Language Access." Among other topics, we discussed the role of interpreters, communication challenges, and other barriers that people who speak languages other than English face when accessing and navigating the court system, including remote hearings.
+
+In addition, we addressed the cognitive skills interpreting requires, the applications and limitations of emerging technologies, and practical best practices. The session aimed to offer judicial officers a shared understanding of language access issues in Washington State courts and to promote meaningful access to justice for all.
 
 **Ensuring Language Access in Civil Protection Order Hearings**  
 Washington State Administrative Office of the Courts · PORT Project · Statewide Webinar  
@@ -42,7 +44,7 @@ I served as a featured panelist for a statewide judicial education webinar exami
 Washington State Bar Association  
 2025 · Washington State
 
-I participated in the Color of Justice Program, a statewide initiative connecting law students and legal professionals of color with judges and practitioners to advance diversity, equity, and inclusion within the legal profession, and engaged in dialogue on access to justice, representation, and the future of law for underserved communities.
+I participated in the Color of Justice Program, an educational initiative of the National Association of Women Judges. The program encourages diverse youth to pursue careers in the legal profession and the judiciary while introducing them to the realities of the justice system. I highlighted the importance of aligning strengths with interests, choosing a career that meets community needs, and embracing one's culture and identity, including one's language.
 
 **COVID-19 Public Health Communication for Swahili-Speaking Communities**  
 Public Health – King County · Washington State Public Health  
@@ -57,8 +59,7 @@ Experience
 University of Washington School of Law  
 September 2026 – Present · Seattle, WA
 
-* Pursuing doctoral research at the intersection of law, technology, public policy, and linguistics, with a focus on AI-powered interpretation and translation technologies in judicial and administrative proceedings.
-* Examining the legal, ethical, and policy dimensions of AI governance frameworks as they affect language access and access to justice for individuals who speak languages other than the dominant language.
+* Pursuing doctoral research at the intersection of law, technology, public policy, and linguistics, with a focus on emerging AI-powered interpretation and translation technologies in high-stakes settings.
 * My research is grounded in over a decade of frontline practice as a court-credentialed interpreter and healthcare professional — bringing practitioner depth to questions that existing legal scholarship has not yet fully addressed.
 
 **Court, Medical & Social Services Credentialed Interpreter — Swahili-English**  
@@ -66,7 +67,7 @@ Independent Contractor · Nationwide
 2011 – Present
 
 * For over a decade, provided critical interpretation across Washington state courts, government agencies, education institutions, hospitals, and social services — serving immigrants and refugees, whose access to justice, health care, education, housing and public services depends entirely on accurate, culturally competent language access.
-* Interpreted in civil protection order hearings, domestic violence and sexual assault proceedings, mental health evaluations, child welfare cases, and immigration matters — bearing direct witness to how language barriers become justice barriers in the highest-stakes institutional settings.
+* Interpreted in administrative, criminal, and civil proceedings, including civil protection order hearings, competency evaluations, and child welfare cases — bearing direct witness to how language barriers become justice barriers in the highest-stakes institutional settings.
 
 **Patient Relations Manager**  
 University of Washington Medical Center (UWMC)  
@@ -126,7 +127,7 @@ Skills
 ======
 
 **Access to Justice & Legal Research**  
-Access to Justice · Language Access Law · AI & the Law · Technology Law · Health Law · Immigration Law · Court Interpretation · Interpreter Ethics · Legal Research & Writing · Interdisciplinary Research
+Access to Justice · AI & the Law · Technology Law · Health Law · Court Interpretation · Interpreter Ethics · Legal Research & Writing · Interdisciplinary Research
 
 **Policy, Health & Data Equity**  
 Public Policy · Health Equity · Healthcare Risk Management · Data Equity · Global Health Policy · Implementation Science · Monitoring & Evaluation · Epidemiology · Patient Advocacy
@@ -156,7 +157,7 @@ American Translators Association (ATA) · Kenya Scholars & Studies Association (
 UW Community Engagement and Involvement
 ======
 
-* 2026 – Present: Member / Outreaching Grad, Graduate Student Equity & Excellence (GSEE), University of Washington
+* 2026 – Present: Member / Outreach Graduate, Graduate Student Equity & Excellence (GSEE), University of Washington
 * 2025 – Present: Member, Black Law Students Association (BLSA), University of Washington
 
 Conferences & Symposiums
